@@ -1,6 +1,8 @@
 # voxiom.io-market-bot
 A market monitoring bot for the web game voxiom.io
 
+# This program was broken by the developer adding cloudflare ddos protection
+
 # Installation
 ```git clone https://github.com/PixelMelt/voxiom.io-market-bot```
 
